@@ -1,0 +1,98 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/component---cache-caches-gatsby-plugin-offline-app-shell-js-3ecdc9640efe42acf30e.js
+  Cache-Control: public, max-age=31536000, immutable
+/styles.2e580255db665a66a0fb.css
+  Cache-Control: public, max-age=31536000, immutable
+/styles-823ae8103e36ae8a7f9f.js
+  Cache-Control: public, max-age=31536000, immutable
+/1bfc9850-0914cf43485941940187.js
+  Cache-Control: public, max-age=31536000, immutable
+/6a81bc2ef4e37a9ea2dc38611a36e233e18c3b52-f0800009df7d6830a0b8.js
+  Cache-Control: public, max-age=31536000, immutable
+/e21e9ecfc099254b06ab7617f17d97212f9248d1-9c3597d5191a6345db5e.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-listing-jsx-f999adfe9bf83a3caea6.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-post-jsx-46af698c570947eaf886.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-404-jsx-41748a77a849dd2d0aff.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-now-jsx-6ad9da1e195c34cbde5a.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-fab027012e5d431b533a.js
+  Cache-Control: public, max-age=31536000, immutable
+/framework-0204bf4e920e001ced67.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-e987ac2b4e73b3862604.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/cokkie/offline-plugin-app-shell-fallback/
+  Link: </cokkie/webpack-runtime-fab027012e5d431b533a.js>; rel=preload; as=script
+  Link: </cokkie/framework-0204bf4e920e001ced67.js>; rel=preload; as=script
+  Link: </cokkie/app-e987ac2b4e73b3862604.js>; rel=preload; as=script
+  Link: </cokkie/component---cache-caches-gatsby-plugin-offline-app-shell-js-3ecdc9640efe42acf30e.js>; rel=preload; as=script
+  Link: </cokkie/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </cokkie/page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
+/cokkie/
+  Link: </cokkie/webpack-runtime-fab027012e5d431b533a.js>; rel=preload; as=script
+  Link: </cokkie/framework-0204bf4e920e001ced67.js>; rel=preload; as=script
+  Link: </cokkie/app-e987ac2b4e73b3862604.js>; rel=preload; as=script
+  Link: </cokkie/styles-823ae8103e36ae8a7f9f.js>; rel=preload; as=script
+  Link: </cokkie/1bfc9850-0914cf43485941940187.js>; rel=preload; as=script
+  Link: </cokkie/6a81bc2ef4e37a9ea2dc38611a36e233e18c3b52-f0800009df7d6830a0b8.js>; rel=preload; as=script
+  Link: </cokkie/e21e9ecfc099254b06ab7617f17d97212f9248d1-9c3597d5191a6345db5e.js>; rel=preload; as=script
+  Link: </cokkie/component---src-templates-listing-jsx-f999adfe9bf83a3caea6.js>; rel=preload; as=script
+  Link: </cokkie/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </cokkie/page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
+/cokkie/post/test-222
+  Link: </cokkie/webpack-runtime-fab027012e5d431b533a.js>; rel=preload; as=script
+  Link: </cokkie/framework-0204bf4e920e001ced67.js>; rel=preload; as=script
+  Link: </cokkie/app-e987ac2b4e73b3862604.js>; rel=preload; as=script
+  Link: </cokkie/styles-823ae8103e36ae8a7f9f.js>; rel=preload; as=script
+  Link: </cokkie/6a81bc2ef4e37a9ea2dc38611a36e233e18c3b52-f0800009df7d6830a0b8.js>; rel=preload; as=script
+  Link: </cokkie/e21e9ecfc099254b06ab7617f17d97212f9248d1-9c3597d5191a6345db5e.js>; rel=preload; as=script
+  Link: </cokkie/component---src-templates-post-jsx-46af698c570947eaf886.js>; rel=preload; as=script
+  Link: </cokkie/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </cokkie/page-data/post/test-222/page-data.json>; rel=preload; as=fetch; crossorigin
+/cokkie/post/test-3334
+  Link: </cokkie/webpack-runtime-fab027012e5d431b533a.js>; rel=preload; as=script
+  Link: </cokkie/framework-0204bf4e920e001ced67.js>; rel=preload; as=script
+  Link: </cokkie/app-e987ac2b4e73b3862604.js>; rel=preload; as=script
+  Link: </cokkie/styles-823ae8103e36ae8a7f9f.js>; rel=preload; as=script
+  Link: </cokkie/6a81bc2ef4e37a9ea2dc38611a36e233e18c3b52-f0800009df7d6830a0b8.js>; rel=preload; as=script
+  Link: </cokkie/e21e9ecfc099254b06ab7617f17d97212f9248d1-9c3597d5191a6345db5e.js>; rel=preload; as=script
+  Link: </cokkie/component---src-templates-post-jsx-46af698c570947eaf886.js>; rel=preload; as=script
+  Link: </cokkie/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </cokkie/page-data/post/test-3334/page-data.json>; rel=preload; as=fetch; crossorigin
+/cokkie/404/
+  Link: </cokkie/webpack-runtime-fab027012e5d431b533a.js>; rel=preload; as=script
+  Link: </cokkie/framework-0204bf4e920e001ced67.js>; rel=preload; as=script
+  Link: </cokkie/app-e987ac2b4e73b3862604.js>; rel=preload; as=script
+  Link: </cokkie/component---src-pages-404-jsx-41748a77a849dd2d0aff.js>; rel=preload; as=script
+  Link: </cokkie/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </cokkie/page-data/404/page-data.json>; rel=preload; as=fetch; crossorigin
+/cokkie/now/
+  Link: </cokkie/webpack-runtime-fab027012e5d431b533a.js>; rel=preload; as=script
+  Link: </cokkie/framework-0204bf4e920e001ced67.js>; rel=preload; as=script
+  Link: </cokkie/app-e987ac2b4e73b3862604.js>; rel=preload; as=script
+  Link: </cokkie/styles-823ae8103e36ae8a7f9f.js>; rel=preload; as=script
+  Link: </cokkie/6a81bc2ef4e37a9ea2dc38611a36e233e18c3b52-f0800009df7d6830a0b8.js>; rel=preload; as=script
+  Link: </cokkie/component---src-pages-now-jsx-6ad9da1e195c34cbde5a.js>; rel=preload; as=script
+  Link: </cokkie/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </cokkie/page-data/now/page-data.json>; rel=preload; as=fetch; crossorigin
+/cokkie/404.html
+  Link: </cokkie/webpack-runtime-fab027012e5d431b533a.js>; rel=preload; as=script
+  Link: </cokkie/framework-0204bf4e920e001ced67.js>; rel=preload; as=script
+  Link: </cokkie/app-e987ac2b4e73b3862604.js>; rel=preload; as=script
+  Link: </cokkie/component---src-pages-404-jsx-41748a77a849dd2d0aff.js>; rel=preload; as=script
+  Link: </cokkie/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </cokkie/page-data/404.html/page-data.json>; rel=preload; as=fetch; crossorigin
